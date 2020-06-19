@@ -1,0 +1,14 @@
+{
+  "name": "simon_game",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abaddion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
